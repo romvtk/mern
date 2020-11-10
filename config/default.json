@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "ivan mern foolstask",
+  "mongoUri": "mongodb+srv://iagritsenko:Gia016958@cluster0.iqhzn.mongodb.net/app?retryWrites=true&w=majority"
+}
