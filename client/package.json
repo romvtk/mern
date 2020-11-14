@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/materialize-css": "^1.0.8",
+    "@types/react-router-dom": "^5.1.6"
   }
 }

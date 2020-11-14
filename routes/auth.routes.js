@@ -51,7 +51,6 @@ router.post(
     check('password', 'Введите пароль').exists(),
   ],
   async (req, res) => {
-    console.log('requeest');
     try {
       const errors = validationResult(req);
 
